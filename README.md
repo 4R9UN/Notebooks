@@ -13,20 +13,8 @@ Below is the list of Jupyter Notebooks included in this repository, each aimed a
 1. **Multi cloud Threat Hunting.ipynb**
    - Description: This notebook provides techniques and queries to hunt for threats using Microsoft Sentinel from Multicloud envorinments.
 
-2. **Splunk_Threat_Analysis.ipynb**
-   - Description: Utilize this notebook to analyze security events and hunt for threats using Splunk.
-
-3. **AWS_Security_Analysis.ipynb**
-   - Description: Focuses on analyzing AWS cloud resources for potential security incidents and compromises.
-
-4. **GCP_Threat_Detection.ipynb**
-   - Description: Provides methods to detect and analyze threats within Google Cloud Platform (GCP) environments.
-
-5. **Azure_Security_Monitoring.ipynb**
-   - Description: A notebook dedicated to monitoring and analyzing security events in Azure cloud environments.
-
-6. **Suspicious_IP_Analysis.ipynb**
-   - Description: This notebook helps in identifying and analyzing access to cloud resources via suspicious IP addresses.
+2. **SIOC Analysis.ipynb**
+   - Description: Utilize this notebook to analyze IOC using Sentiel and hunt the suspicious activity.
 
 ## Getting Started
 
