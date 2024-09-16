@@ -13,7 +13,7 @@ Below is the list of Jupyter Notebooks included in this repository, each aimed a
 1. **Multi cloud Threat Hunting.ipynb**
    - Description: This notebook provides techniques and queries to hunt for threats using Microsoft Sentinel from Multicloud envorinments.
 
-2. **SIOC Analysis.ipynb**
+2. **IOC Analysis.ipynb**
    - Description: Utilize this notebook to analyze IOC using Sentiel and hunt the suspicious activity.
 
 ## Getting Started
