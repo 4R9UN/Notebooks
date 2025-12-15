@@ -22,7 +22,7 @@ To get started with these notebooks, follow the steps below:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/notebooks.git
+   git clone https://github.com/4R9UN/notebooks.git
    ```
 
 2. Navigate to the repository directory:
